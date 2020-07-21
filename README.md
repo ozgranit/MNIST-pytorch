@@ -1,5 +1,5 @@
 # MNIST-pytorch
-playing with pytorch neural networks
+playing with pytorch neural networks to solve MNIST handwrriten digit classification
 
 mnist_1.py - Naive logistic regression model
 
